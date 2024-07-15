@@ -1,0 +1,6 @@
+table .tictactoe-board {
+}
+
+table .tictactoe-board td {
+  border: 1px solid black;
+}
